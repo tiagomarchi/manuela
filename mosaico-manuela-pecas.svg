@@ -1,0 +1,15 @@
+<svg width='615' height='310' xmlns='http://www.w3.org/2000/svg'>
+  <rect width='100%' height='100%' fill='white'/>
+  <text x='10' y='50' font-family='Arial' font-size='36' fill='red'>M</text>
+  <text x='70' y='50' font-family='Arial' font-size='36' fill='orange'>A</text>
+  <text x='130' y='50' font-family='Arial' font-size='36' fill='yellow'>N</text>
+  <text x='190' y='50' font-family='Arial' font-size='36' fill='green'>U</text>
+  <text x='250' y='50' font-family='Arial' font-size='36' fill='blue'>E</text>
+  <text x='310' y='50' font-family='Arial' font-size='36' fill='purple'>L</text>
+  <text x='370' y='50' font-family='Arial' font-size='36' fill='pink'>A</text>
+  <text x='10' y='120' font-family='Arial' font-size='36' fill='blue'>Design with Flowers</text>
+  <circle cx='50' cy='200' r='20' fill='red'/>
+  <circle cx='150' cy='200' r='30' fill='yellow'/>
+  <circle cx='250' cy='200' r='40' fill='green'/>
+  <!-- Add more decorative elements here -->
+</svg>
